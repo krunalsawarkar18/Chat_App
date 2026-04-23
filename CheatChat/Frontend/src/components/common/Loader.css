@@ -1,0 +1,15 @@
+.loader {
+  display: inline-block;
+  height: 1.1rem;
+  width: 1.1rem;
+  border-radius: 9999px;
+  border: 2px solid currentColor;
+  border-right-color: transparent;
+  animation: loader-spin 0.7s linear infinite;
+}
+
+@keyframes loader-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
