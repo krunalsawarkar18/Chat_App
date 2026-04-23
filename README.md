@@ -1,4 +1,4 @@
-# VartalaP (Real‑Time Chat App) — MERN + Socket.IO
+# CheatChat (Real‑Time Chat App) — MERN + Socket.IO
 
 Production-style full‑stack chat application built with **MongoDB, Express, React, Node.js** (MERN) and **Socket.IO**.  
 It demonstrates **JWT authentication**, **real‑time presence**, **1:1 messaging**, **message edit/delete**, and **file/image sharing** with a clean responsive UI (light/dark).
@@ -152,6 +152,4 @@ Frontend runs on: `http://localhost:5173`
 
 ---
 
-## License
 
-For learning/demo purposes.
