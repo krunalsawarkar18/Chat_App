@@ -152,4 +152,8 @@ Frontend runs on: `http://localhost:5173`
 
 ---
 
+Contact
+For any inquiries, feel free to reach out:
 
+Email: krunalsawarkar2004@gmail.com
+GitHub: https://github.com/krunalsawarkar18
