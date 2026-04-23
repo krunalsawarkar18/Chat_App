@@ -1,3 +1,7 @@
+👤 Author
+
+Krunal Sawarkar
+
 # CheatChat (Real‑Time Chat App) — MERN + Socket.IO
 
 Production-style full‑stack chat application built with **MongoDB, Express, React, Node.js** (MERN) and **Socket.IO**.  
