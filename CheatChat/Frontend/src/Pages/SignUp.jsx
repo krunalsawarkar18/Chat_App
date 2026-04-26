@@ -92,7 +92,7 @@ const SignUp = ({ theme }) => {
               </div>
               <h1 className={`text-3xl font-bold sm:text-4xl ${isDark ? "text-white" : "text-slate-800"}`}>Create your chat space in minutes</h1>
               <p className={isDark ? "text-slate-400" : "text-slate-500"}>
-                Join VartalaP to start real-time conversations in a cleaner, more focused workspace.
+                Join CheatChat to start real-time conversations in a cleaner, more focused workspace.
               </p>
             </div>
 
